@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (logoBlock) {
         logoBlock.addEventListener('click', () => {           
-            window.location.href = 'http://www.school130.org.ua/index.html';
+            window.location.href = 'http://www.school130.org.ua';
         });
     }
 });
